@@ -91,7 +91,9 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * **[Skill Rary IMI cloud](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/IMI%20cloud%20%20(1).pdf)**
 
 ### EXTRACURRICULAR ACTIVITIES
-* School competitions at zonal level [foot ball game winner]() and also participated in chess competition
+* School competitions at zonal level [foot ball game winner](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/2023_08_24%203_27%20pm%20Office%20Lens.pdf) and also participated in chess competition
+* Volunteer in National Service Scheme and NCC
+* making Handcrafts
 
 
 
