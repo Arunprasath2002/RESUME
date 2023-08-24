@@ -68,7 +68,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Class-10th**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Percentage:&nbsp;75.6%<br>
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## SKILLS
 * &nbsp;&nbsp;**HTML & CSS**<br>
 * &nbsp;&nbsp;**Python**<br>
@@ -86,6 +86,7 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 
 * *[Academic project base paper](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## CERTIFICATES AND COURSES
 * **[One day online workshop for UAV Remote Sensing in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/UAV%20remote%20sensing.pdf)**
 * **[I have participated in online course 'Remote Sensing and Geological Information System application in natural resource management in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/RS%20%26%20GIS.pdf)**
@@ -98,16 +99,17 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * School competitions at zonal level [foot ball game winner](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/2023_08_24%203_27%20pm%20Office%20Lens.pdf) and also participated in chess competition
 * Volunteer in National Service Scheme and NCC
 * making Handcrafts
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## LANGUAGES
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tamil <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English
 
 ## REFERENCE
-Gmail:&nbsp;<arunprasath.frnd@gmail.com>
-Linkedin:&nbsp;
+Gmail:&nbsp;<arunprasath.frnd@gmail.com><br>
+Linkedin:&nbsp;<https://linkedin.com/in/arunprasath-p><br>
+Contact:&nbsp;+91 6374385510
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
