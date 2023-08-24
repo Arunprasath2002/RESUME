@@ -31,7 +31,7 @@
     <br />
     <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents/Certificates">Certificates</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents/courses">courses</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
   </p>
