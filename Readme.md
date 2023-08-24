@@ -43,8 +43,7 @@
     <li><a href="#EDUCATION">EDUCATION</a></li>
     <li><a href="#SKILLS">SKILLS</a></li>
     <li><a href="#PROJECTS">PROJECTS</a></li>
-    <li><a href="#CERTIFICATES">CERTIFICATES</a></li>
-    <li><a href="#COURSES">COURSES</a></li>
+    <li><a href="#CERTIFICATES AND COURSES">CERTIFICATES AND COURSES</a></li>
     <li><a href="#LANGUAGES">LANGUAGES</a></li>
     <li><a href="#REFERENCE">REFERENCE</a></li>
    </ol>
@@ -83,7 +82,7 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 
 * *[Academic project base paper](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)*
 
-## CERTIFICATES
+## CERTIFICATES AND COURSES
 
 
 
