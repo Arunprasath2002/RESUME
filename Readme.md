@@ -90,6 +90,8 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * **[Dev ops completion certificate](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/NM%20DevOps.pdf)**
 * **[Skill Rary IMI cloud](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/IMI%20cloud%20%20(1).pdf)**
 
+### EXTRACURRICULAR ACTIVITIES
+* School competitions at zonal level [foot ball game winner]() and also participated in chess competition
 
 
 
