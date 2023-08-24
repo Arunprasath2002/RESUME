@@ -26,7 +26,7 @@
   <p align="center">
 <h3>Seeking a beginner role to enhance and explore my technical knowledge gained at Anna University in the last three years. I hold a B.E degree from MRK Institute Of Technology and participated in various service schemes and sports competition held at the campus.</h3>
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
