@@ -33,7 +33,7 @@
     ·
     <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents/courses">courses</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Arunprasath2002/RESUME/tree/main/documents/Academic%20project%20base%20paper">Academic project base paper</a>
   </p>
 </div>
 
