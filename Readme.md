@@ -43,7 +43,11 @@
     <li><a href="#EDUCATION">EDUCATION</a></li>
     <li><a href="#SKILLS">SKILLS</a></li>
     <li><a href="#PROJECTS">PROJECTS</a></li>
-    <li><a href="#CERTIFICATES AND COURSES">CERTIFICATES AND COURSES</a></li>
+    <li><a href="#CERTIFICATES AND COURSES">CERTIFICATES AND COURSES</a>
+      <ul>
+        <li><a href="#EXTRACURRICULAR ACTIVITIES">EXTRACURRICULAR ACTIVITIES</a></li>
+      </ul>
+    </li>
     <li><a href="#LANGUAGES">LANGUAGES</a></li>
     <li><a href="#REFERENCE">REFERENCE</a></li>
    </ol>
