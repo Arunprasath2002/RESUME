@@ -88,7 +88,7 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * **[Diploma in Computer Application](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/DCA%20.pdf)**
 * **[Phython course completion certificate](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/python%20_2023_08_24_15_28_25_922.pdf)**
 * **[Dev ops completion certificate](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/NM%20DevOps.pdf)**
-* **[Dev ops completion certificate](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/NM%20DevOps.pdf)**
+* **[Skill Rary IMI cloud](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/NM%20DevOps.pdf)**
 
 
 
