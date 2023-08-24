@@ -40,19 +40,19 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#EDUCATION">EDUCATION</a></li>
+    <li><a href="EDUCATION">EDUCATION</a></li>
     <li>
-      <a href="#SKILLS">SKILLS</a>
+      <a href="SKILLS">SKILLS</a>
       <ul>
-        <li><a href="#HARD SKILLS">HARD SKILLSs</a></li>
-        <li><a href="#SOFT SKILLS">SOFT SKILLS</a></li>
+        <li><a href="HARD SKILLS">HARD SKILLSs</a></li>
+        <li><a href="SOFT SKILLS">SOFT SKILLS</a></li>
       </ul>
     </li>
-    <li><a href="#PROJECTS">PROJECTS</a></li>
-    <li><a href="#CERTIFICATES">CERTIFICATES</a></li>
-    <li><a href="#COURSES">COURSES</a></li>
-    <li><a href="#LANGUAGES">LANGUAGES</a></li>
-    <li><a href="#REFERENCE">REFERENCE</a></li>
+    <li><a href="PROJECTS">PROJECTS</a></li>
+    <li><a href="CERTIFICATES">CERTIFICATES</a></li>
+    <li><a href="COURSES">COURSES</a></li>
+    <li><a href="LANGUAGES">LANGUAGES</a></li>
+    <li><a href="REFERENCE">REFERENCE</a></li>
    </ol>
 </details>
 
@@ -68,6 +68,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;2016-2017&nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Rani Seethai Aachi Higher Secondary School, Annnamalai nagar.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Class-10th**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Percentage:&nbsp;75.6%<br>
+
+
+## SKILLS
 
 
 
