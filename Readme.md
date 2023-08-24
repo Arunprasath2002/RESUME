@@ -73,7 +73,7 @@
 * &nbsp;&nbsp;**UI UX Design**<br>
 * &nbsp;&nbsp;**MS office**<br>
 * &nbsp;&nbsp;**Photoshop**<br>
-* &nbsp;&nbsp;**CNC operating**<br>
+* &nbsp;&nbsp;**CNC Machine operating**<br>
 
 
 ## PROJECTS
@@ -81,11 +81,9 @@
 By implementing GPS tracker system in large area solar farm. it is reducing the LDR sensor accuracy, time and cost<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Modules covering:**&nbsp;Keil compiler, Arduino IDE, GPS system, Random Forest Algoithm, Embedded C, IOT.
 
+* *[Academic project base paper](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)*
 
-
-
-
-
+## CERTIFICATES
 
 
 
