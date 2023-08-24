@@ -41,13 +41,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#EDUCATION">EDUCATION</a></li>
-    <li>
-      <a href="#SKILLS">SKILLS</a>
-      <ul>
-        <li><a href="#HARD SKILLS">HARD SKILLSs</a></li>
-        <li><a href="#SOFT SKILLS">SOFT SKILLS</a></li>
-      </ul>
-    </li>
+    <li><a href="#SKILLS">SKILLS</a></li>
     <li><a href="#PROJECTS">PROJECTS</a></li>
     <li><a href="#CERTIFICATES">CERTIFICATES</a></li>
     <li><a href="#COURSES">COURSES</a></li>
@@ -73,6 +67,21 @@
 
 
 ## SKILLS
+* &nbsp;&nbsp;**HTML & CSS**<br>
+* &nbsp;&nbsp;**Python**<br>
+* &nbsp;&nbsp;**VLSI**<br>
+* &nbsp;&nbsp;**UI UX Design**<br>
+* &nbsp;&nbsp;**MS office**<br>
+* &nbsp;&nbsp;**Photoshop**<br>
+* &nbsp;&nbsp;**CNC operating**<br>
+
+
+## PROJECTS
+### IOT Based Solar GPS Tracker System<br> 
+By implementing GPS tracker system in large area solar farm. it is reducing the LDR sensor accuracy, time and cost<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Modules covering:**&nbsp;Keil compiler, Arduino IDE, GPS system, Random Forest Algoithm, Embedded C, IOT.
+
+
 
 
 
