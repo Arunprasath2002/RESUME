@@ -20,7 +20,7 @@
 
 <br />
 <div align="center">
-<img alt="pngwing.com (31).png" src="https://github.com/Arunprasath2002/png_jpg_svg/blob/main/pngwing.com%20(31).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" alt="Logo" width="80" height="80">
+<img alt="pngwing.com (31).png" src="https://github.com/Arunprasath2002/png_jpg_svg/blob/main/pngwing.com%20(31).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI" alt="Logo" width="100" height="100">
   </a>
 
 
