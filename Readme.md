@@ -84,15 +84,7 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 
 ## CERTIFICATES AND COURSES
 * &nbsp;&nbsp;**[One day online workshop for UAV Remote Sensing in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/UAV%20remote%20sensing.pdf)**
-
-*  One day online workshop for UAV Remote Sensing in IIRS/ISRO.<br>
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
-* &nbsp;&nbsp;
+* &nbsp;&nbsp;**I have participated in online course 'Remote Sensing and Geological Information System application in natural resource management in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/UAV%20remote%20sensing.pdf)**
 
 
 
