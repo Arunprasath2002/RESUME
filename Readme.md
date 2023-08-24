@@ -83,10 +83,10 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * *[Academic project base paper](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)*
 
 ## CERTIFICATES AND COURSES
-* &nbsp;&nbsp;**[One day online workshop for UAV Remote Sensing in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/UAV%20remote%20sensing.pdf)**
-* &nbsp;&nbsp;**[I have participated in online course 'Remote Sensing and Geological Information System application in natural resource management in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/RS%20%26%20GIS.pdf)**
-* &nbsp;&nbsp;**[Diploma in Computer Application](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/RS%20%26%20GIS.pdf)**
-
+* **[One day online workshop for UAV Remote Sensing in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/UAV%20remote%20sensing.pdf)**
+* **[I have participated in online course 'Remote Sensing and Geological Information System application in natural resource management in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Certificates/RS%20%26%20GIS.pdf)**
+* **[Diploma in Computer Application](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/DCA%20.pdf)**
+* **[Diploma in Computer Application](https://github.com/Arunprasath2002/RESUME/blob/main/documents/courses/DCA%20.pdf)**
 
 
 
