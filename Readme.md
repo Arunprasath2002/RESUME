@@ -99,7 +99,9 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * Volunteer in National Service Scheme and NCC
 * making Handcrafts
 
-
+## LANGUAGES
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tamil <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;English
 
 
 
