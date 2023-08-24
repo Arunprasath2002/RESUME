@@ -83,7 +83,16 @@ By implementing GPS tracker system in large area solar farm. it is reducing the 
 * *[Academic project base paper](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)*
 
 ## CERTIFICATES AND COURSES
+* &nbsp;&nbsp;**[One day online workshop for UAV Remote Sensing in IIRS/ISRO.](https://github.com/Arunprasath2002/RESUME/blob/main/documents/Academic%20project%20base%20paper/GPSBasedPortableDual-AxisSolarTrackingSystemUsingAstronomicalEquation.pdf)**
 
+*  One day online workshop for UAV Remote Sensing in IIRS/ISRO.<br>
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
+* &nbsp;&nbsp;
 
 
 
